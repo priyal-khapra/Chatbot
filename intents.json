@@ -26,9 +26,5 @@
 {"tag" : "options",
     "patterns" : ["How can you help me?" , "What can you do?"],
     "responses" : ["I can guide you through _____" ]
-},
-{"tag" : "cusswords",
-    "patterns" : ["Fuck off" , "Fuck"],
-    "responses" : ["Ew!" ]
 }
 ] }
